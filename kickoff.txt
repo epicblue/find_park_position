@@ -1,0 +1,4 @@
+依赖
+- mask-crnn
+  - pycocotools
+  - mask_rcnn_coco.h5
