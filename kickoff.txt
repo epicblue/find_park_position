@@ -4,9 +4,9 @@ Windows 10 x64, python 3.7.1
 依赖组件
 - mask-crnn (python module)
   - pycocotools (python module)
-  - mask_rcnn_coco.h5 (coco model)
-  - opencv-python (python module)
-  - osgeo4w (software)
+  - mask_rcnn_coco.h5 (coco模型，不包含)
+  - opencv-python (python module，不包含)
+  - osgeo4w (software，不包含)
 
 入口
 mask_r-cnn/main.py
