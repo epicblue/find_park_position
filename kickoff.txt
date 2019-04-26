@@ -1,4 +1,4 @@
-运行环境
+﻿运行环境
 Windows 10 x64, python 3.7.1
 
 依赖组件
@@ -7,3 +7,6 @@ Windows 10 x64, python 3.7.1
   - mask_rcnn_coco.h5 (coco model)
   - opencv-python (python module)
   - osgeo4w (software)
+
+入口
+mask_r-cnn/main.py
