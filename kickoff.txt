@@ -1,12 +1,14 @@
+在住宅小区内寻找停车位。
+
 ﻿运行环境
 Windows 10 x64, python 3.7.1
 
 依赖组件
 - mask-crnn (python module)(已包括，来源：https://github.com/matterport/Mask_RCNN)
-  - pycocotools (python module)
+  - pycocotools (python module)(已包含)
   - mask_rcnn_coco.h5 (coco模型，不包含，来源：https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5)
   - opencv-python (python module，不包含)
   - osgeo4w (software，不包含)
 
-入口
+执行文件
 mask_r-cnn/main.py
