@@ -12,3 +12,6 @@ Windows 10 x64, python 3.7.1
 
 执行文件
 mask_r-cnn/main.py
+
+
+main.py代码来自github，但不知何处，望告知。
